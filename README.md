@@ -1,6 +1,6 @@
 # 🎬 La Filmoteca - React Case Study
 
-Este repositorio documenta el desarrollo de **La Filmoteca**, una Single Page Application (SPA) diseñada para la exploración y gestión de contenidos cinematográficos. El proyecto se centra en ofrecer una experiencia de usuario fluida, utilizando **React** para la lógica de componentes y **Bootstrap** para un diseño responsivo y profesional.
+Este repositorio documenta el desarrollo de **La Filmoteca**, una WebApp diseñada para la exploración y gestión de contenidos cinematográficos. El proyecto se centra en ofrecer una experiencia de usuario fluida, utilizando **React** para la lógica de componentes y **Bootstrap** para un diseño responsivo y profesional.
 
 > **Nota de la desarrolladora:** Actualmente, el repositorio de código y el despliegue en Netlify se encuentran en mantenimiento privado mientras se realiza la migración hacia una arquitectura de video basada exclusivamente en proveedores legales (YouTube Player SDK).
 
@@ -35,7 +35,7 @@ Gracias a la implementación estratégica de las **Grid Systems de Bootstrap**, 
 
 Aquí puedes ver cómo luce la interfaz y la organización de la información:
 
-*(Sugerencia: Sube aquí 2 o 3 capturas de pantalla donde se vea la cuadrícula de películas y el buscador funcionando)*
+*()*
 
 1. **Dashboard Principal:** Vista de películas en tendencia con cards interactivas.
 2. **Buscador Dinámico:** Filtrado en tiempo real por título o categoría.
