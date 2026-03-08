@@ -2,8 +2,7 @@
 
 Este repositorio documenta el desarrollo de **La Filmoteca**, una WebApp diseñada para la exploración y gestión de contenidos cinematográficos. El proyecto se centra en ofrecer una experiencia de usuario fluida, utilizando **React** para la lógica de componentes y **Bootstrap** para un diseño responsivo y profesional.
 
-> **Nota de la desarrolladora:** Actualmente, el repositorio de código y el despliegue en Netlify se encuentran en mantenimiento privado mientras se realiza la migración hacia una arquitectura de video basada exclusivamente en proveedores legales (YouTube Player SDK).
-
+> **Nota de la desarrolladora:** Actualmente el código fuente en un repositorio privado durante un proceso de refactorización de la capa de servicios, con el objetivo de integrar exclusivamente APIs de contenido legal (YouTube SDK).
 ---
 
 ## 🛠️ Stack Tecnológico
