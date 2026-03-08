@@ -22,7 +22,7 @@ En lugar de crear estructuras repetitivas, diseñé componentes modulares como `
 
 ### 2. Seguridad de las API Keys
 
-Implementación de variables de entorno (.env) para la gestión segura de claves de API, siguiendo las mejores prácticas de seguridad en el frontend". Esto demuestra que tienes conciencia de ciberseguridad básica.
+Implementación de variables de entorno (.env) para la gestión segura de claves de API, siguiendo las mejores prácticas de seguridad en el frontend".
 
 ### 3. Gestión de Estados con Hooks
 
