@@ -20,15 +20,11 @@ Este repositorio documenta el desarrollo de **La Filmoteca**, una WebApp diseña
 
 En lugar de crear estructuras repetitivas, diseñé componentes modulares como `MovieCard`, `SearchBar` y `CategoryFilter`. Esto permitió mantener un código limpio (DRY - Don't Repeat Yourself) y facilitar la escalabilidad del sitio.
 
-### 2. Seguridad de las API Keys
-
-Implementación de variables de entorno (.env) para la gestión segura de claves de API, siguiendo las mejores prácticas de seguridad en el frontend".
-
-### 3. Gestión de Estados con Hooks
+### 2. Gestión de Estados con Hooks
 
 Utilicé `useState` y `useEffect` para manejar el ciclo de vida de los datos. La aplicación sincroniza la búsqueda del usuario con los resultados de la API de forma dinámica, asegurando que la interfaz se actualice instantáneamente sin recargar la página.
 
-### 4. Diseño Responsivo (Mobile First)
+### 3. Diseño Responsivo (Mobile First)
 
 Gracias a la implementación estratégica de las **Grid Systems de Bootstrap**, la aplicación ofrece una experiencia óptima tanto en monitores de escritorio como en dispositivos móviles, adaptando el número de columnas y el tamaño de los elementos automáticamente.
 
